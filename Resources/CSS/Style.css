@@ -1,13 +1,14 @@
 body {
   font-family: helvetica;
+  background: linear-gradient();
 }
 
 h1, h2, h3 {
+  background-image:url("Resources\Images\the-flatiron-building.png");
   font-weight: bold;
 }
 
 .main {
-  background-image: url(Resources\Images\the-flatiron-building.png);
   text-align: center;
   color: black;
 }
@@ -32,8 +33,9 @@ h3 {
   text-align: center;
 }
 
-
-
 p {
+  text-align: center;
+}
+.supporting {
   text-align: center;
 }
